@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = "ko">
+<head>
+    <meta charset="UTF-8"/>
+    <title>회원가입</title>
+    <link  rel="stylesheet" href="./css/login.css" type="text/css">
+    <link  rel="stylesheet" href="./css/join.css" type="text/css">
+</head>
+<body>
+
+    <div style="text-align: center;">
+
+        <!-- 로그인 form -->
+
+        <form action="#">
+            <table>
+                <tr>
+                    <td></td>
+                    <td id="login_th"><h3>회원가입</h3></td> 
+                </tr>
+
+                <!-- form -->
+                <tr>
+                    <td><p>아이디</p></td>
+                    <!--  autofocus = 자동 커서 설정 -->
+                    <td><input id="input_box" type="email" placeholder="이메일" autofocus><td></td> 
+                </tr>
+                <tr>
+                    <td><p>비밀번호</p></td>
+                    <td><input id="input_box" type="password"  maxlength="16" placeholder="16자 이내로 입력하세요"><td></td>
+                </tr>
+                <tr>
+                    <td><p>비밀번호 확인</p></td>
+                    <td><input id="input_box" type="password"  maxlength="16" placeholder="위와 동일하게 입력하세요"><td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input id = "summit" type="submit" value="가입하기"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+   
+</body>
+</html>

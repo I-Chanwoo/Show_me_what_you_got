@@ -1,0 +1,40 @@
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+form {
+    display: inline-block;
+}
+
+/* id */
+#input_box {
+    width: 200px;
+    height: 30px;
+
+    border-radius: 10px;
+    background-color: white;
+    
+    text-align: center;
+}
+#login_th {   
+    padding-left: auto;
+    height: 50px;
+    text-align: center;
+}
+#summit{
+    
+    margin: 10px;
+    width:100px;
+    height: 40px;
+
+    border-radius: 10px;
+    background-color: rgb(38, 176, 132);
+
+    color: white;
+    border: 0px;
+
+    text-align: center;
+}
+#summit:hover{
+    background-color: rgb(50, 124, 101);
+}
