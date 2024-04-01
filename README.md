@@ -2,7 +2,7 @@
   <a href="https://github.com/I-Chanwoo/github-readme-stats">
     <img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=웹%20프로젝트&align=center" />
   </a>
-  <h3>참여: @I-Chanwoo @Eomjuns1k @양호영 @jiholee3212@gmail.com @Kim Donghyun</h3>
+  <h3>참여: 방유진, 양호영, 엄윤준, 엄준식, 이지호, 이찬우,</h3>
   <b>협업 툴: 노션, 깃, 피그마</b>
   <br>
   <br>
